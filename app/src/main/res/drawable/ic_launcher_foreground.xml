@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Left outer ear -->
+    <path
+        android:fillColor="#8D7C68"
+        android:pathData="M30,50 L26,22 L46,38 Z" />
+    <!-- Right outer ear -->
+    <path
+        android:fillColor="#8D7C68"
+        android:pathData="M78,50 L82,22 L62,38 Z" />
+    <!-- Left inner ear (pink) -->
+    <path
+        android:fillColor="#FFC0CB"
+        android:pathData="M31,46 L29,27 L42,39 Z" />
+    <!-- Right inner ear (pink) -->
+    <path
+        android:fillColor="#FFC0CB"
+        android:pathData="M77,46 L79,27 L66,39 Z" />
+    <!-- Cat Head Main Outline -->
+    <path
+        android:fillColor="#FED18C"
+        android:pathData="M54,34 C70,34 81,41 81,56 C81,71 70,78 54,78 C38,78 27,71 27,56 C27,41 38,34 54,34 Z" />
+    <!-- White Face bottom patch -->
+    <path
+        android:fillColor="#FFFFF2"
+        android:pathData="M54,58 C66,58 75,61 75,70 C75,75 66,77 54,77 C42,77 33,75 33,70 C33,61 42,58 54,58 Z" />
+    <!-- Left Eye (focus dot) -->
+    <path
+        android:fillColor="#3B352E"
+        android:pathData="M43,54 A3.5,3.5 0 1,1 43,53.9 A3.5,3.5 0 1,1 43,54 Z" />
+    <!-- Right Eye (focus dot) -->
+    <path
+        android:fillColor="#3B352E"
+        android:pathData="M65,54 A3.5,3.5 0 1,1 65,53.9 A3.5,3.5 0 1,1 65,54 Z" />
+    <!-- Small Pink Nose -->
+    <path
+        android:fillColor="#FFB5C5"
+        android:pathData="M51,59 L57,59 L54,62 Z" />
+    <!-- Left Cheek Whiskers -->
+    <path
+        android:strokeColor="#786F64"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:pathData="M24,58 L12,56" />
+    <path
+        android:strokeColor="#786F64"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:pathData="M23,63 L14,64" />
+    <!-- Right Cheek Whiskers -->
+    <path
+        android:strokeColor="#786F64"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:pathData="M84,58 L96,56" />
+    <path
+        android:strokeColor="#786F64"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:pathData="M85,63 L94,64" />
+</vector>

@@ -1,0 +1,6 @@
+{
+  "name": "猫咪时间手账",
+  "description": "一本文艺又可爱的猫咪主题时间手账，陪你记录时间，统计周报，提供温馨治愈的小猫陪伴与计时互动。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
